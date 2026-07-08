@@ -1,0 +1,11 @@
+{
+  "enabled": true,
+  "intervalSeconds": 180,
+  "urls": [
+    "https://s.pemsrv.com/v1/link.php?cat=&idzone=5962682&type=8",
+    "https://s.pemsrv.com/v1/link.php?cat=&idzone=5962682&type=8",
+    "https://s.pemsrv.com/v1/link.php?cat=&idzone=5962682&type=8"
+  ],
+  "label": " ",
+  "message": " "
+}
